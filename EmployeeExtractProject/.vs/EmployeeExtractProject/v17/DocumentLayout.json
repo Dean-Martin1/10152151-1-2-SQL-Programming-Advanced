@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQL\\Desktop\\Week 5 SSIS Employee Table Extract\\EmployeeExtractProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DF34E-7088-F9E2-A1C0-B221611EBD87}|EmployeeExtractProject\\EmployeeExtractProject.dtproj|C:\\Users\\SQL\\Desktop\\Week 5 SSIS Employee Table Extract\\EmployeeExtractProject\\EmployeeExtractProject\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8C6DF34E-7088-F9E2-A1C0-B221611EBD87}|EmployeeExtractProject\\EmployeeExtractProject.dtproj|solutionrelative:EmployeeExtractProject\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\Week 5 SSIS Employee Table Extract\\EmployeeExtractProject\\EmployeeExtractProject\\Package.dtsx",
+              "RelativeDocumentMoniker": "EmployeeExtractProject\\Package.dtsx",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\Week 5 SSIS Employee Table Extract\\EmployeeExtractProject\\EmployeeExtractProject\\Package.dtsx [Design]",
+              "RelativeToolTip": "EmployeeExtractProject\\Package.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-25T15:37:54.174Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
