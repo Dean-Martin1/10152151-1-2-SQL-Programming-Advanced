@@ -1,5 +1,4 @@
 USE AP;
-
 -- This procedure extracts the Invoices table data which also 
 -- accepts a optional parameter (@InvoiceID)
 CREATE PROCEDURE dbo.spGetInvoiceDetails
@@ -11,6 +10,3 @@ CREATE PROCEDURE dbo.spGetInvoiceDetails
 		FROM Invoices
 		WHERE (@InvoiceID IS NULL OR InvoiceID = @InvoiceID)
 	END
-
-
-SELECT * FROM Invoices;
