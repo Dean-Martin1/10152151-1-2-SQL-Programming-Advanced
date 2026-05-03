@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQL\\Desktop\\Week 6 Drill Down Report\\Week 6 Drill Down Report\\InvoiceDrillDown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F52C10-E302-7E3E-4F9C-913389C17292}|InvoiceDrillDown\\InvoiceDrillDown.rptproj|C:\\Users\\SQL\\Desktop\\Week 6 Drill Down Report\\Week 6 Drill Down Report\\InvoiceDrillDown\\InvoiceDrillDown\\VendorInvoiceReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{17F52C10-E302-7E3E-4F9C-913389C17292}|InvoiceDrillDown\\InvoiceDrillDown.rptproj|solutionrelative:InvoiceDrillDown\\VendorInvoiceReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorInvoiceReport.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\Week 6 Drill Down Report\\Week 6 Drill Down Report\\InvoiceDrillDown\\InvoiceDrillDown\\VendorInvoiceReport.rdl",
+              "RelativeDocumentMoniker": "InvoiceDrillDown\\VendorInvoiceReport.rdl",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\Week 6 Drill Down Report\\Week 6 Drill Down Report\\InvoiceDrillDown\\InvoiceDrillDown\\VendorInvoiceReport.rdl [Design]",
+              "RelativeToolTip": "InvoiceDrillDown\\VendorInvoiceReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-03T13:52:58.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
